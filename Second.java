@@ -7,10 +7,10 @@ public class Second {
         int Diff = a - b;
         int multiply = a*b;
         float division = (float)a / b;
-        System.out.println("sum of 5 and 10 is: " + sum);
-        System.out.println("difference of 5 and 10 is: " + Diff);
-        System.out.println("multiplication of 5 and 10 is: " + multiply);
-        System.out.println("division of 5 and 10 is: " + division);
+        System.out.println("sum of 4 and 10 is: " + sum);
+        System.out.println("difference of 4 and 10 is: " + Diff);
+        System.out.println("multiplication of 4 and 10 is: " + multiply);
+        System.out.println("division of 4 and 10 is: " + division);
     }
 }
     
