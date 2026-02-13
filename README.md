@@ -1,7 +1,7 @@
 # Java_Labwork
 
 ## Overview
-This repository contains Java lab programs and practical exercises created for academic practice.  
+This repository contains Java lab programs and practical exercises created for academic practice in CLass.  
 It focuses on core Java and Object-Oriented Programming concepts.
 
 ## Topics Covered
