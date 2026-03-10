@@ -1,4 +1,4 @@
-// Bubble Sort Algorithm in Java by inner and outer loop
+// Bubble Sort Algorithm in Java by inner and outer loop in lab
 public class BubbleSort {
    public static void bubbleSort(int[] arr) {
         int n = arr.length;
